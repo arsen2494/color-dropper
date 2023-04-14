@@ -13,7 +13,6 @@
 
 .dropperIcon {
     left: 0;
-    text-outline: 0;
     position: absolute;
     cursor: pointer;
     display: flex;
